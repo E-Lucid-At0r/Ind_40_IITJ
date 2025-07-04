@@ -2,6 +2,12 @@
 
 An educational Unreal Engine 5 simulator showcasing the transition from Industry 3.0 to Industry 4.0 using a four-stage smart production line. Inspired by the **SMC FAS-200 SE testbed**, this project integrates real-time automation concepts, modular blueprint logic, and AI-generated assets via **404-GEN** to create a gamified training environment.
 
+https://github.com/user-attachments/assets/4fabb535-701e-4460-9700-da684d81590f
+![Screenshot (47)](https://github.com/user-attachments/assets/41ec8e34-fe0e-4928-ab4e-b3bc47d41a1a)
+![Screenshot (46)](https://github.com/user-attachments/assets/ae9782a9-1988-489d-9222-325de885a5b9)
+![Screenshot (48)](https://github.com/user-attachments/assets/33767628-8c3e-43b6-a06d-937d49e38d3a)
+![Screenshot (49)](https://github.com/user-attachments/assets/84027650-979a-4e7e-9a0d-7dbaafe600fa)
+
 > Developed by **Ashwin Ravikumar** at TIH-iHub Drishti Foundation, IIT Jodhpur.
 
 ---
@@ -10,10 +16,10 @@ An educational Unreal Engine 5 simulator showcasing the transition from Industry
 
 ### Prerequisites
 
-- Unreal Engine 5.3 or higher
+- Unreal Engine 5.5
 - Windows 10/11 64-bit
-- 16 GB RAM minimum
-- RTX 2060 or better GPU recommended
+- 8 GB RAM minimum
+- Dedicated GPU recommended
 
 ### Run the Project
 
@@ -26,6 +32,7 @@ https://github.com/E-Lucid-At0r/Ind_40_IITJ.git
 ```
 
 ---
+**Google Drive Link Backup:** https://drive.google.com/file/d/1uRyI4Qb6F0Z5Wu5R2njhx3f0npDPXIpk/view?usp=drive_link
 
 ## 🧩 Project Structure (Modular Blueprint System)
 
@@ -98,6 +105,11 @@ This project uses **404-GEN**, a decentralized AI-based model generation system.
 4. Placed in `404GEN_Meshes` folder and linked via blueprints
 
 ---
+
+![Screenshot (52)](https://github.com/user-attachments/assets/da1c37dd-bbf6-4601-8064-38216e0a65eb)
+![Screenshot (51)](https://github.com/user-attachments/assets/631ca417-c406-4a00-9ab6-4e4ec99f5285)
+![Screenshot (50)](https://github.com/user-attachments/assets/ca38d730-9f82-48b2-a403-9318307a8fd8)
+![Screenshot (53)](https://github.com/user-attachments/assets/26cd4c7c-7e57-4eb4-85fb-1dedc08a209a)
 
 ## ⚙️ Modular Integration Notes
 
